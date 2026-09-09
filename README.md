@@ -9,17 +9,14 @@ This is intentionally a structure-first concept, not a branding exercise. It use
 1. Hero / positioning
 2. Core capabilities
 3. Delivery approach
-4. Leadership & key-personnel experience
+4. Founder bio, federal experience, and company credentials
 5. Federal contracting information
 6. About
 7. Contact
 
 ## Important placeholders to replace
-- Founder / principal name and bio
-- Representative individual experience
 - UEI
 - CAGE code
-- Business / socioeconomic status
 - NAICS and PSC codes
 - Capability statement PDF
 - Email, phone, and location
