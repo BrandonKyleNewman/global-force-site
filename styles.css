@@ -146,8 +146,8 @@ h3 { line-height: 1.24; }
 
 .contact { display: grid; grid-template-columns: 1.45fr .55fr; gap: 100px; padding-top: 90px; padding-bottom: 90px; background: var(--ink-2); color: white; }
 .contact h2 { max-width: 760px; margin-bottom: 0; }
-.contact-details { padding-top: 32px; }
-.contact-details a { display: inline-block; margin-bottom: 18px; font-size: 20px; font-weight: 800; }
+.contact-details { padding-top: 32px; min-width: 0; }
+.contact-details a { overflow-wrap: anywhere; display: inline-block; margin-bottom: 18px; font-size: 20px; font-weight: 800; }
 .contact-details p { margin-bottom: 6px; }
 .contact-details .small { margin-top: 20px; color: #bac8d2; font-size: 12px; }
 
